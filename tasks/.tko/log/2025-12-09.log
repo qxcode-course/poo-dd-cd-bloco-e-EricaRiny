@@ -18,3 +18,39 @@
 2025-12-09 18:26:49, EXEC, v:1, k:poo@zoo, mode:FREE, size:72
 2025-12-09 18:31:53, MOVE, v:1, k:poo@zoo, mode:BACK
 2025-12-09 18:32:46, SELF, v:1, k:poo@zoo, rate:100, guide:video_do_sena, alone:10, study:30
+2025-12-09 18:34:08, MOVE, v:1, k:poo@estacionamento, mode:PICK
+2025-12-09 18:34:09, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:1
+2025-12-09 20:19:27, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:70
+2025-12-09 20:21:04, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:72
+2025-12-09 20:21:43, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:72
+2025-12-09 20:31:17, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:78
+2025-12-09 20:34:09, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:78
+2025-12-09 21:59:28, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:81
+2025-12-09 22:01:54, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:86
+2025-12-09 22:02:45, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:83
+2025-12-09 22:04:58, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:83
+2025-12-09 22:13:11, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:91
+2025-12-09 22:16:15, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:91
+2025-12-09 22:16:36, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:91
+2025-12-09 22:17:16, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:91
+2025-12-09 22:17:18, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0
+2025-12-09 22:25:22, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:91
+2025-12-09 22:25:48, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:91
+2025-12-09 22:29:36, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:97
+2025-12-09 22:30:03, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0
+2025-12-09 22:33:36, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:97
+2025-12-09 22:37:44, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:75, size:97
+2025-12-09 23:00:48, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:120
+2025-12-09 23:01:29, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:122
+2025-12-09 23:06:00, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:121
+2025-12-09 23:06:35, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:75, size:121
+2025-12-09 23:07:24, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:75, size:121
+2025-12-09 23:11:14, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:75, size:124
+2025-12-09 23:11:38, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:75, size:124
+2025-12-09 23:17:21, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:75, size:127
+2025-12-09 23:18:44, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:75, size:127
+2025-12-09 23:19:52, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:0, size:127
+2025-12-09 23:20:25, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:75, size:127
+2025-12-09 23:23:40, EXEC, v:1, k:poo@estacionamento, mode:FULL, rate:100, size:127
+2025-12-09 23:25:35, MOVE, v:1, k:poo@estacionamento, mode:BACK
+2025-12-09 23:27:41, SELF, v:1, k:poo@estacionamento, rate:100, iagen:pesquisei_como_fazer_o_rjust, guide:videp_do_sena, alone:9, study:240

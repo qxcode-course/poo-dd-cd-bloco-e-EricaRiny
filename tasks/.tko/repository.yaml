@@ -20,11 +20,13 @@ expanded:
 - poo@bloco_f-herança-i
 tasks:
   poo@zoo: '{rate:100, guide:video_do_sena, alone:10, study:30}'
+  poo@estacionamento: '{rate:100, iagen:pesquisei_como_fazer_o_rjust, guide:videp_do_sena,
+    alone:9, study:240}'
 flags:
   quests: 0
   tracks: 0
   tasks: 0
-  graph: 0
+  graph: 1
   xray: 0
 lang: py
-selected: poo@zoo
+selected: poo@cofre
